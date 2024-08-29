@@ -53,6 +53,7 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/-Create%20React%20App-09D3AC?style=flat-square&logo=create-react-app&logoColor=white" alt="Create React App">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io">
     <img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
