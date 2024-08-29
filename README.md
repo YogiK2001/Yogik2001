@@ -8,15 +8,15 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
 🔧 Technologies & Tools
 <!-- Language usage chart -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-YogiK2001&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YogiK2001&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 🌟 Recent Projects
 
