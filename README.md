@@ -19,10 +19,7 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YogiK2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
-<!-- You can keep the GitHub Trophies section as it was, it already shows lifetime achievements -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
+
 <!-- GitHub Trophies -->
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
