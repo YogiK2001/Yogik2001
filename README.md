@@ -57,6 +57,8 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
   <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  </div>
+ <img src="https://via.placeholder.com/1000x1/FFFF00" alt="Yellow Line" style="width: 100%; height: 1px;">
 📫 Get in touch
 
 LinkedIn: https://www.linkedin.com/in/kaustubh-srivastava-1a8109234/
