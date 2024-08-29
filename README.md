@@ -12,6 +12,7 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
 <br>
 <!-- Language usage chart -->
 <div align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 📊 GitHub Stats
