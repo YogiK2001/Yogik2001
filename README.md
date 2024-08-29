@@ -60,5 +60,5 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
   </div>
  <img src="https://via.placeholder.com/1000x1/FFFF00" alt="Yellow Line" style="width: 100%; height: 1px;">
 📫 Get in touch
-
+<br>
 LinkedIn: https://www.linkedin.com/in/kaustubh-srivastava-1a8109234/
