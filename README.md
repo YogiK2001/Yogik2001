@@ -8,7 +8,8 @@ Hi there, I'm Kaustubh Srivastava 👋
 <br>
 I'm passionate about coding and creating innovative solutions. Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat!
 🔧 Technologies & Tools
-  <br>
+
+<br>
 <!-- Language usage chart -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
