@@ -1,13 +1,15 @@
+<h1 align="center > Welcome to my GitHub profile! 🚀 </h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Kaustubh+Srivastava;Software+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 <br>
 Hi there, I'm Kaustubh Srivastava 👋
 <!-- Name GIF animation -->
-Welcome to my GitHub profile! 🚀
+<br>
 <br>
 I'm passionate about coding and creating innovative solutions. Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat!
 🔧 Technologies & Tools
+  <br>
 <!-- Language usage chart -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
