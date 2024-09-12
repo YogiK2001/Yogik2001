@@ -17,7 +17,7 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YogiK2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
@@ -26,7 +26,7 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div> -->
-🌟 Recent Projects
+<h2>🌟 Recent Projects</h2>
 <div style="width: 100%;">
   <img src="https://via.placeholder.com/1000x1/FFFF00" alt="Yellow Line" style="width: 100%; height: 1px;">
   <h3><a href="https://github.com/YogiK2001/smartbrain">Project 1 : SmartBrain</a></h3>
