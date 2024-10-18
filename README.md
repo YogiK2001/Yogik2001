@@ -27,7 +27,7 @@ I'm passionate about coding and creating Full Stack solutions. Feel free to expl
 
 ### 📫 Connect with me:
 
-<div align="left" style="display: flex; gap: 10px;">
+<div align="left" style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/kaustubh-srivastava-1a8109234/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
