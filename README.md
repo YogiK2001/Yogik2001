@@ -18,8 +18,8 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
   <div align="left" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" />
   <div/> 
-  <h2>📊 GitHub Stats</h2>
 <div align="right">
+  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YogiK2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 </div>
