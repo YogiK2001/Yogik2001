@@ -31,13 +31,13 @@ I'm passionate about coding and creating Full Stack solutions. Feel free to expl
   <a href="https://www.linkedin.com/in/kaustubh-srivastava-1a8109234/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="YOUR_X_PROFILE_LINK">
+  <a href="https://x.com/Seeker_112">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
   </a>
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="https://www.instagram.com/dzynr.pro/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="YOUR_DRIBBBLE_LINK">
+  <a href="https://dribbble.com/dzynr_pro">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
   </a>
 </div>
