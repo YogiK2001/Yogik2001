@@ -23,8 +23,21 @@ I'm passionate about coding and creating Full Stack solutions. Feel free to expl
   <img src="https://github-profile-trophy.vercel.app/?username=YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div> -->
 <br>
+<img src="https://via.placeholder.com/1000x1/FFFF00" alt="Yellow Line" style="width: 100%; height: 1px;">
 
- <img src="https://via.placeholder.com/1000x1/FFFF00" alt="Yellow Line" style="width: 100%; height: 1px;">
-📫 Get in touch
-<br>
-LinkedIn: https://www.linkedin.com/in/kaustubh-srivastava-1a8109234/
+### 📫 Connect with me:
+
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/kaustubh-srivastava-1a8109234/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="YOUR_X_PROFILE_LINK">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" />
+  </a>
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="YOUR_DRIBBBLE_LINK">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+  </a>
+</div>
