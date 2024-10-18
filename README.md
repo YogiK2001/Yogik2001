@@ -10,7 +10,7 @@ I'm passionate about coding and creating Full Stack solutions. Feel free to expl
 
 <br>
 <!-- Language usage chart -->
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 100px;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; gap: 100px; padding: 20px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogiK2001&layout=compact&theme=radical" alt="Top Languages" width="45%" align="left"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YogiK2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" align="right" />
 </div>
