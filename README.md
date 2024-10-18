@@ -4,10 +4,7 @@
 <br>
 <h2>Hi there, I'm Kaustubh Srivastava 👋</h3>
 <!-- Name GIF animation -->
-<br>
-<br>
-I'm passionate about coding and creating innovative solutions. Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat!
-<br>
+I'm passionate about coding and creating Full Stack solutions. Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat!
 <br>
 <h2>🔧 Technologies & Tools</h2>
 
