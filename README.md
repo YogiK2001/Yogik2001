@@ -27,6 +27,7 @@ I'm passionate about coding and creating innovative solutions. Feel free to expl
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YogiK2001&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div> -->
+<br>
 <h2>🌟 Recent Projects</h2>
 <div style="width: 100%;">
   <img src="https://via.placeholder.com/1000x1/FFFF00" alt="Yellow Line" style="width: 100%; height: 1px;">
